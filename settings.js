@@ -1,10 +1,10 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @GlobalTechInfo
-//Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+//YouTube: @Huntereditz-1
+//Telegram: https://t.me/Kandhro112
+//GitHub: @hunter123348
+//WhatsApp: https://whatsapp.com/channel/0029Vazr5zw0gcfPNlTsnX1y
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Huntereditz-1
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -22,7 +22,7 @@ global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.author = 'HUNTERHACKER\n\nContact: +923131277656'
 
 //console view/theme
 global.themeemoji = '🪀'
